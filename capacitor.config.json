@@ -1,6 +1,6 @@
 {
   "appId": "com.efe.promptolustur",
-  "appName": "Prompt Olustur",
+  "appName": "Prompt Oluştur",
   "webDir": "www",
   "android": {
     "adjustMarginsForEdgeToEdge": "disable"
